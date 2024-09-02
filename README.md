@@ -24,7 +24,7 @@ They aree:
 - Directly related to your goal (**Primary KPIs** - **Secondry KPIs** correlates to your primary kpis)
 
 
-
+### Step 3: OSEMN framework
 
 
   
