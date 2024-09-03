@@ -5,7 +5,7 @@ This README is a summary of all the useful information taught in *Meta Data Anal
 - **Scrub**: Clean the data to insure a consistent and useful format (e.g. size in 40 and Medium, remove duplicates, ..)
 - **Explore**: Search for patterns (plotting the distributions)
 - **Model**: Generate predictions and insights (run models)
-- **iNterpret**: present and communicate your insights (plots, tables, ..), this is the final step which is handed as output in presentations
+- **iNterpret**: present and communicate your insights (plots, tables, ..), this is the final step which is handed as output in presentations (slide presentation)
 
 
 
