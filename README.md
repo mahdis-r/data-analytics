@@ -41,7 +41,16 @@ They aree:
     
   A few examples of databases companies can buy or subscribe to:
 
-  - **Nielsen data:**
+  - **Nielsen data:** data about people's media usage habits, like `how much TV they watch`, `which channels they tune into`, `which programs they watch` for `how long`
+    They track the behavior of people who are agreed to be tracked. And then they provide that data to subscribers.
+
+    TV channels or websites will use that data to inform their advertisers. e.g. In their sales pitches to sneaker brands they might refer to how many people are watcging their programs, enticing the sneaker brands to advertise with them.
+
+  - **Bloomberg:** financial information.
 
    #### 3. Data you intentionally collect.
+  - create questionnaires/surveys
+    some tools: SurveyMonkey, Google Forms
+  - organize interviews with customers
+  - observe people while they're using your product and record what you see (with their premission!)
     
