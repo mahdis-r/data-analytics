@@ -27,5 +27,21 @@ They aree:
 ### Step 3: OSEMN framework:
 
 - ### Obtain: 
-
+  Where do data analysts obtain data & what sources are available to you?
   
+  Data can be harnessed to answer questions and solve problems. Making it an invaluable resource for businesses and individuals. We try to obtain the **right** data for our analytics objectives and business goals.
+
+  ### Where to look for data? (categories of data sources)
+
+    #### 1. Freely accessible, open source databases. (e.g. government websites and open source repositories)
+    #### 2. Data specific to your company. (not freely accessible)
+  
+  - data collected by the company (website visits records through Google Analytics)  
+  - data the company subscribes to
+    
+  A few examples of databases companies can buy or subscribe to:
+
+  - **Nielsen data:**
+
+   #### 3. Data you intentionally collect.
+    
